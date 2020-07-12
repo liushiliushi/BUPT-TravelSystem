@@ -32,3 +32,6 @@
 右边是一个**tabWidget**，有两栏，第一个用于**添加旅客**，第二个用于**查询、修改、删除**旅客信息。中间一栏用于显示旅客的路线。下方是用于操作旅行模拟功能的按钮，和显示时间的控件。
 #### 时刻表查询界面
 ![](https://github.com/liushiliushi/BUPT-TravelSystem/blob/master/images/%E6%97%B6%E5%88%BB%E8%A1%A8%E6%9F%A5%E8%AF%A2.PNG)
+
+## 下载.exe文件
+下载TravelStimulation（内含.exe文件）文件夹，安装步骤在[用户使用手册](https://github.com/liushiliushi/BUPT-TravelSystem/blob/master/%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)有说明
