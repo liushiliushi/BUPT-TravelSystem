@@ -1,6 +1,6 @@
 # BUPT-TravelSystem
 北邮数据结构课设，旅行模拟系统
-(程序使用说明详见[用户使用手册]())
+(程序使用说明详见[用户使用手册](https://github.com/liushiliushi/BUPT-TravelSystem/blob/master/%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf))
 ## 总体方案设计说明
 ### 软件开发环境
 * **编程语言**：c++
