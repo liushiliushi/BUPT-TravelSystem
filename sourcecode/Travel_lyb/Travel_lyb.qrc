@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ziyuan/icon.PNG</file>
+        <file>ziyuan/add.png</file>
+        <file>ziyuan/airplane.png</file>
+        <file>ziyuan/car.png</file>
+        <file>ziyuan/compass.png</file>
+        <file>ziyuan/map.png</file>
+        <file>ziyuan/spot.png</file>
+        <file>ziyuan/train.png</file>
+        <file>ziyuan/schedule.png</file>
+        <file>ziyuan/schedule2.png</file>
+        <file>ziyuan/start.png</file>
+        <file>ziyuan/stop.png</file>
+        <file>ziyuan/person1.png</file>
+        <file>ziyuan/person2.png</file>
+        <file>ziyuan/map_without_spots.png</file>
+        <file>ziyuan/city.png</file>
+        <file>ziyuan/point.png</file>
+        <file>ziyuan/airplane2.png</file>
+        <file>ziyuan/car2.png</file>
+        <file>ziyuan/train2.png</file>
+        <file>ziyuan/point2.png</file>
+        <file>ziyuan/add2.png</file>
+        <file>ziyuan/delete.png</file>
+        <file>ziyuan/delete2.png</file>
+        <file>ziyuan/modify.png</file>
+        <file>ziyuan/clock.png</file>
+        <file>ziyuan/delete4.png</file>
+        <file>ziyuan/accelerate.png</file>
+        <file>ziyuan/end.png</file>
+        <file>ziyuan/metropolitan.png</file>
+        <file>ziyuan/clock3.png</file>
+        <file>ziyuan/clock3 - 副本.png</file>
+        <file>ziyuan/clock4.png</file>
+        <file>ziyuan/slow.png</file>
+    </qresource>
+</RCC>
